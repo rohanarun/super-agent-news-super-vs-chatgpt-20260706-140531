@@ -1,0 +1,53 @@
+{
+  "citations": [
+    {
+      "source": "Khaleej Times",
+      "title": "Using AI? Here are three things you should never upload to AI tools",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdTdOT1gxUWtqLWkwdFAyX3dTYk4yS2ZxMThIUGo0T1FySWpFcUExd2hOWk5nbTFpa0xfYWI5dUpwS2FWamxsc19KamZUcUpzOWpKTURSc2Z3cktOZ01lVXp6aF9XZkVSaUdFZHFiY2VwaWdLc0dra3puUjF5TXlwdGg5bHEwX2RMMmVNcHhyNVHSAZgBQVVfeXFMUEh6V0hfbS1laWRJNUIwSEFYV1JfQ0pXRmg5MnZVTElhYllWQ3FFd2RLNHcwZFNNMzZIeVFLdnR0N0VSVTlqWHdtaTJBaktpbTZtZll2Z3RwVTY4cFdSUDZuLThFdHZja1lNTDJrRXNZNW5ZbVJXTW1pMzU3NXVxZVU2Sk83TEVwVlF0MTBFR0dncGc5TGU0NEg?oc=5"
+    },
+    {
+      "source": "Geeky Gadgets",
+      "title": "Siri AI vs. ChatGPT vs. Claude: Can Apple\u2019s Deep OS Integration Beat Raw Brainpower?",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAteXN0RmEweUdRdXJleXZDV2xqZWZ0NkRLMVpUeHZXdy01eUVfUmtUSFVRdmFRcHdKTFQ5RmFxODQwYmNvanFHNTY1MjMwMTRtclhGSURUVXMwaGpRdTRpR0IxVmhTLWpUYVN3?oc=5"
+    },
+    {
+      "source": "Memeburn",
+      "title": "Google gives Gemini 3.5 Flash computer use for AI agents",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmotdWlXYzdiUUVaeXZQaDJkcVB5bzlfcWROWldtd2JjZXdoeEVVR0U4X3ZyZjR2cElfVXh1dXlhZG84YXlseWRDRmtlY2E2RWZ4Vno5RGp6LTRBbU04bXVDYWprOEJXaVJ1bG9jeFdMSFpmX216N1l6LXQwRW9SYk1uQk4?oc=5"
+    },
+    {
+      "source": "Android Authority",
+      "title": "I automated my day with ChatGPT Scheduled Tasks. Here's what's great \u2014 and what's broken",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sVHJoaUVFV0ZBU1dQZ3ZodTFJYmxxQnlLZjdLd3BIVXlEWGM4ZUNmU1VRV1JBV3VwVk5fMkZ2Qjk2VFRHRG8yYXRzblJnZnlwZ243VU5JZEZza3IzYWtDQzEyNnBteURvejU5UDl1SjdzUV85cGpEdWEwNVlENkE?oc=5"
+    },
+    {
+      "source": "MIT News",
+      "title": "Q&A: What is agentic AI today, and what do we want it to be?",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RM1ZBZHlsbkR4dlJscXJLMkhFUzN1S280eXBsV1hCXzdCOTBraWZ1cUt1SUhqXzBUbThPSnBQdWpKTTI2aXdxQTdHbk9SM1d2NGluUXZ0cWktNzdWeS1xZHRQcVhDcWs5M2R4YXdUTGVvMThCRXc?oc=5"
+    },
+    {
+      "source": "Google DeepMind Blog",
+      "title": "Introducing the Gemini 2.5 Computer Use model",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-computer-use-model/"
+    }
+  ],
+  "design_plan": "Python RNG Execution: seed=hash('Super vs ChatGPT|competitor_comparison|people comparing Super with ChatGPT|2026-07-06T14:04:28.671638+00:00') -> hero_architecture=comparison-lab, typography=Cabinet Grotesk, components=[gapless-bento-grid, decision-matrix, source-card-dossier], gsap=[pinned-chapter-scroll, hover-physics]. AIDA Check: Nav+Hero=Attention, Proof+Bento=Interest, Motion+Media=Desire, CTA Band=Action. Font Selection: Cabinet Grotesk (primary), system fallbacks only. Hero Math Verification: clamp headline to 2\u20133 lines at 1120px max-width. Bento Density Verification: grid-auto-flow:dense present. GSAP Motion Selection: guarded ScrollTrigger + hover physics. Label Sweep & Button Check: black pill primary CTA, high-contrast secondary CTA verified.",
+  "generated_at": "2026-07-06T14:05:38.933687+00:00",
+  "headline": "Super vs ChatGPT \u2014 choosing a personal AI agent for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with ChatGPT",
+    "competitor": "ChatGPT",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs ChatGPT. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost. Include a long-form buyer guide with a decision matrix, migration checklist, how-to evaluation plan, and source-backed caveats. Previous comparison-page failures omitted visible buyer-guide and decision-matrix language even when the article was useful; that must never happen. The visible page must include the exact phrases Buyer guide and Decision matrix.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "ChatGPT AI agent",
+      "ChatGPT AI assistant",
+      "ChatGPT automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-chatgpt",
+    "title": "Super vs ChatGPT"
+  },
+  "summary": "A fair, source\u2011backed comparison for people evaluating Super against ChatGPT. ChatGPT excels at general conversation and planning; Super is positioned for durable, repeated computer\u2011use workflows with a reusable computer-use cache. This page includes a buyer guide, decision matrix, long\u2011form field guide, and step\u2011by\u2011step evaluation plan with matching HowTo schema."
+}
